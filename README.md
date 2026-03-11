@@ -13,4 +13,8 @@ Tugas praktikum Pemrograman Mobile.
 ## Cara Menjalankan
 1. Clone repository ini
 2. npm install
+<<<<<<< HEAD
 3. npx expo start
+=======
+3. npx expo start
+>>>>>>> 9d509b747c8b53a786afb9a52d67db2d0e2b86a1
